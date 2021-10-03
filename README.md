@@ -13,6 +13,7 @@ First open a terminal : top bar
 
 when Adding new changes type in the following commands when you want to add your changes
 
+- click on file , then press "Save All"
 - type in : "git add ." 
 - then type : "git commit -m "add changes" "
 - then finally type : "git push"
