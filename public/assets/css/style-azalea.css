@@ -3201,7 +3201,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .nk-circle-animation:before { top: 0; left: 0; bottom: 0; right: 0; border-top-color: #026bfb; border-right-color: #026bfb; animation: rotatecw 30s linear infinite 0s; }
 
-.nk-circle-animation:after { top: 25px; left: 25px; bottom: 25px; right: 25px; border-top-color: white; border-bottom-color: white; animation: rotateacw 24s linear infinite 0s; }
+.nk-circle-animation:after { top: 25px; left: 25px; bottom: 25px; right: 25px; border-top-color: #026bfb; border-bottom-color: #026bfb; animation: rotateacw 24s linear infinite 0s; }
 
 .nk-circle-animation.small:before, .nk-circle-animation.small:after { border-width: 2px; }
 
