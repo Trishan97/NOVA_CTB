@@ -1,5 +1,4 @@
-# NOVA_CTB
-NOVA Crpto trading bot
+# NOVA Crpto trading bot
 
 Brandon Instructions : 
 
@@ -18,5 +17,3 @@ when Adding new changes type in the following commands when you want to add your
 - then type : "git commit -m "add changes" "
 - then finally type : "git push"
 
-Test 123
-026bfb
